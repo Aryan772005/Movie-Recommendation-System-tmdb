@@ -1,12 +1,17 @@
 Live link - https://movie-recommendation-system-tmdb-sz2csvfycz5596jnr3q9cy.streamlit.app/
 run the live link to test
- 
+
  
  
  
  
  
  <img width="1911" height="917" alt="image" src="https://github.com/user-attachments/assets/0eef3f76-c009-4ad5-a3c4-5989768615d2" />
+
+
+
+ Live link - https://movie-recommendation-system-tmdb-sz2csvfycz5596jnr3q9cy.streamlit.app/
+run the live link to test
 # Aryan's Recommendation System
 
 This project is a personal learning experience in machine learning and data science. The goal was to build a movie recommendation system using real movie data and deploy it as a simple Streamlit web app.
